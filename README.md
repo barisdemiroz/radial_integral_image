@@ -32,3 +32,5 @@ double sum = integralImg.getSum(sector);
 Remarks
 -------
 I have extracted these files from a project, so it contains some cruft. There is a OpenCV 2.4+ dependency.
+
+If you found this code useful please cite: "Demiröz, B. E., Salah, A. A., Bastanlar, Y., & Akarun, L. (2019). **Affordable person detection in omnidirectional cameras using radial integral channel features**. Machine Vision and Applications, 30(4), 645-655."
